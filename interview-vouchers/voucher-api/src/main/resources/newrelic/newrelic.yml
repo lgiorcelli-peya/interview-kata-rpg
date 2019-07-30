@@ -1,0 +1,7 @@
+common: &default_settings
+  license_key: ''
+
+  error_collector:
+    ignore_classes:
+    enabled: true
+    ignore_status_codes: 404,401,403,422
