@@ -19,7 +19,7 @@
 ## Key Features
 
 * Features for our service
-
+- Specification in https://docs.google.com/document/d/1q8Ix3jGh5eHR7l-K_HXdCTahucesAOVJwDv8sXA2rJI
 ## Prerequisites
 
 - Java 1.11+ (use OpenJDK)
