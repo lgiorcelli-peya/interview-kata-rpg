@@ -23,15 +23,15 @@ This is a fun kata that has the programmer building simple combat rules, as for 
     - Damage is subtracted from Health
     - When damage received exceeds current Health, Health becomes 0 and the character dies
 
-1. A Character can Heal a Character.
+1. A RPGCharacter can Heal a RPGCharacter.
     - Dead characters cannot be healed
     - Healing cannot raise health above 1000
 
 ## Iteration Two ##
 
-1. A Character cannot Deal Damage to itself.
+1. A RPGCharacter cannot Deal Damage to itself.
 
-1. A Character can only Heal itself.
+1. A RPGCharacter can only Heal itself.
 
 1. When dealing damage:
     - If the target is 5 or more Levels above the attacker, Damage is reduced by 50%
@@ -58,7 +58,7 @@ This is a fun kata that has the programmer building simple combat rules, as for 
 1. Characters may belong to one or more Factions.
     - Newly created Characters belong to no Faction.
 
-1. A Character may Join or Leave one or more Factions.
+1. A RPGCharacter may Join or Leave one or more Factions.
 
 1. Players belonging to the same Faction are considered Allies.
 
